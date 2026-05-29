@@ -1,0 +1,8 @@
+# .streamlit/config.toml
+[theme]
+base                = "dark"
+primaryColor        = "#FF6B00"        # Bloomberg orange
+backgroundColor     = "#0A0A0A"        # near black
+secondaryBackgroundColor = "#1A1A1A"   # dark grey for sidebar
+textColor           = "#E0E0E0"        # light grey text
+font                = "monospace"      # terminal feel

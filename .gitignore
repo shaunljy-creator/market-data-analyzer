@@ -1,0 +1,10 @@
+# .gitignore
+.venv/
+__pycache__/
+*.pyc
+*.log
+app.log
+*.csv
+*.xlsx
+.env
+.streamlit/secrets.toml

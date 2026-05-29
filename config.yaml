@@ -1,0 +1,30 @@
+# FIELDS DEFINED HERE
+
+data:
+  path: "portfolio.csv"
+  tickers:
+    - "AAPL"
+    - "MSFT"
+    - "GOOGL"
+  weights:
+    AAPL: 0.5
+    MSFT: 0.3
+    GOOGL: 0.2
+  start_date: "2025-01-01"
+  end_date: "2026-01-01"
+
+columns:
+  date: "Date"
+  open: "Open"
+  high: "High"
+  low: "Low"
+  close: "Close"
+  volume: "Volume"
+
+windows:
+  volatility: 20
+  moving_average: 20
+  rsi: 14
+
+analysis:
+  risk_free_rate: 0.0

@@ -1,0 +1,20 @@
+2026-05-21 16:41:52,345 | INFO | Risk-free rate fetched: 0.0457
+2026-05-21 16:41:52,606 | INFO | Downloaded 250 rows of data from ['AAPL', 'MSFT', 'GOOGL'] to portfolio.csv
+2026-05-21 16:41:52,770 | INFO | Risk-free rate fetched: 0.0457
+2026-05-21 16:41:52,798 | INFO | Successfully loaded 250 rows from portfolio.csv
+2026-05-21 16:41:52,798 | INFO | Successfully loaded 250 rows from portfolio.csv
+2026-05-21 16:41:53,011 | INFO | Downloaded 250 rows of data from ['^GSPC'] to sp500.csv
+2026-05-21 16:42:04,646 | INFO | Plot displayed successfully
+2026-05-21 16:42:04,690 | INFO | Data saved to AAPL_analysis.csv
+2026-05-21 16:42:10,049 | INFO | Plot displayed successfully
+2026-05-21 16:42:10,064 | INFO | Data saved to MSFT_analysis.csv
+2026-05-21 16:42:14,139 | INFO | Plot displayed successfully
+2026-05-21 16:42:14,152 | INFO | Data saved to GOOGL_analysis.csv
+2026-05-21 16:42:14,157 | INFO | Calculated returns matrix: (249, 3)
+2026-05-21 16:42:14,158 | INFO | Calculated correlation matrix
+2026-05-21 16:42:16,467 | INFO | Correlation heatmap displayed
+2026-05-21 16:42:16,474 | INFO | Data saved to portfolio_returns.csv
+2026-05-21 16:42:16,495 | INFO | Portfolio Beta: 1.1382
+2026-05-21 16:42:16,518 | INFO | Portfolio Alpha: 0.0600
+2026-05-21 16:42:22,136 | INFO | Efficient frontier simulated with 5000 portfolios
+2026-05-21 16:42:37,703 | INFO | Efficient frontier plotted
